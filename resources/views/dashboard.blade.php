@@ -13,7 +13,7 @@
 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mb-6">
     <div class="stats shadow bg-primary text-primary-content">
         <div class="stat">
-            <div class="stat-title text-primary-content/70">Tokens Today</div>
+            <div class="stat-title text-primary-content/70">Tokens test Today</div>
             <div class="stat-value">{{ $adminStats['total_tokens_today'] }}</div>
         </div>
     </div>
